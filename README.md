@@ -37,8 +37,7 @@ On my machine (WinXP 64-bit, Xeon W3530@2.80GHz, 12GB RAM, Python 2.7), I get:
 ##Usefulness##
 It works but is pretty slow. This was mostly an experiment to help me learn Poker. If you're looking for a high performance hand evaluator there are others out there that can do millions of hand evaluations per second. See [here] for more info.
 
-[here]:http://www.codingthewheel.com/archives/poker-hand-evaluator-roundup]
-			          
+[here]:http://www.codingthewheel.com/archives/poker-hand-evaluator-roundup
 
 #License#
 Public domain
